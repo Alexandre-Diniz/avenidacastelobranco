@@ -10,7 +10,7 @@ import pandas as pd
 from app import app
 from layouts import layout
 import callbacks
-
+from app import server
 
 app.layout = layout
 
