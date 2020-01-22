@@ -1,0 +1,46 @@
+.root{
+    background-color: #a0efd9;
+    width: 100%;
+    height: 1000px;
+    position: absolute;
+}
+
+.header{
+    width: 90%;
+    height: 100px;
+    position: absolute;
+    top: 10px;
+    left: 5%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #629385;
+}
+
+
+.div-1{
+    width: 90%;
+    height: 900px;
+    position: absolute;
+    left: 5%;
+    top: 120px;
+}
+.graph-1{
+    width: 700px;
+    height: 100%;
+    position: absolute;
+    left: 0%;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #629385;
+    background-color: white;
+}
+.data-1{
+    width: 445px;
+    height: 100%;
+    position: absolute;
+    left: 710px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #629385;
+    background-color: white;
+}
