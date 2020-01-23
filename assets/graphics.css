@@ -1,0 +1,13 @@
+.graphic1{
+    position: relative;
+    align-content: center;
+    object-position: center;
+    margin-left: 14px;
+}
+
+.graphic2{
+    position: relative;
+    align-content: center;
+    object-position: center;
+    margin-left: 40px;
+}
